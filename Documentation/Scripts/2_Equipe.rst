@@ -1,28 +1,33 @@
 Team
-======================================
+======
 
-The team consists of two individuals, working under the supervision of Mr. Tawfik Masrour.
+The team is composed of 2 individuals. They operated under the supervision of Mr. Tawfik Masrour and Badreddine Hannaoui.
 
-Supervisors:
----------------------------
-Supervisor 1: Masrour Tawfik |linkedin_Masrour|
-.. |linkedin_Masrour| image:: ../Images/LinkedIn_Logo.jpeg
+Supervisors 
+----------------
+    - **Encadrant 1**: Masrour Tawfik |linkedin_Masrour|
+    - **Encadrant 2**: Hannaoui Badreddine |linkedin_Badr|
+.. |linkedin_Masrour| image:: ../Images/LinkedIn_Logo.png
     :width: 40
     :height: 40
     :target: https://www.linkedin.com/in/tawfik-masrour-43163b85/
 
-
-Members:
----------------------------
-Member 1: RAHOUTI Aya |linkedin_aya|
-Member 2: ELFAIDI Ouafae |linkedin_ouafae|
-
-.. |linkedin_aya| image:: ../Images/LinkedIn_Logo.jpeg
+.. |linkedin_Badr| image:: ../Images/LinkedIn_Logo.png
     :width: 40
     :height: 40
-    :target: https://www.linkedin.com/in/aya-rahouti-2b3899322/
+    :target: https://www.linkedin.com/in/badreddine-hannaoui/
 
-.. |linkedin_ouafae| image:: ../Images/LinkedIn_Logo.jpeg
+Membres
+----------
+
+    - **Membre 1**: Ait Ayach Mouad |linkedin_mouad|
+    - **Membre 2**: Saidi Noureddine |linkedin_saidi|
+.. |linkedin_mouad| image:: ../Images/LinkedIn_Logo.png
     :width: 40
     :height: 40
-    :target: https://www.linkedin.com/in/ouafae-elfaidi-4b65712a7/
+    :target: https://www.linkedin.com/in/mouad-ait-ayach-274aa6206/
+
+.. |linkedin_saidi| image:: ../Images/LinkedIn_Logo.png
+    :width: 40
+    :height: 40
+    :target: https://www.linkedin.com/in/noureddine-saidi-42ba3a247/
