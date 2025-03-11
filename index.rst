@@ -15,5 +15,7 @@ Welcome to Textra's documentation!
 
    Documentation/Scripts/1_Introduction.rst
    Documentation/Scripts/2_Team.rst
+   Documentation/Scripts/3_Data_acquisition.rst
+
 
 
