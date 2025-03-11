@@ -3,7 +3,7 @@ Introduction
 
 Overview of Textra Tender
 ---------------------------
-Textra Tender is an evolution of the previous version (Textra). In this project, we aim to develop a document processing AI tool designed to extract and structure data from various types of tender documents. By leveraging Optical Character Recognition (OCR) and Large Language Models (LLMs), Textra Tender automates the extraction of critical information, improving efficiency and accuracy in tender management by helping to facilitate the task of tender evaluation.
+**Textra Tender** is an evolution of the previous version **(Textra)**. In this project, we aim to develop a document processing AI tool designed to extract and structure data from various types of tender documents. By leveraging Optical Character Recognition (OCR) and Large Language Models (LLMs), Textra Tender automates the extraction of critical information, improving efficiency and accuracy in tender management by helping to facilitate the task of tender evaluation.
 
 Key Features
 ---------------------------
