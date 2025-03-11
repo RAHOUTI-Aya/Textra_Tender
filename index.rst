@@ -1,4 +1,4 @@
-Bienvenue à Textra's documentation!
+Welcome to Textra's documentation!
 ====================================
 
 .. figure:: Documentation/Images/logo.png
