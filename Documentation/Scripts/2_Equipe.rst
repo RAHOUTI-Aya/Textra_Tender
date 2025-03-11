@@ -1,33 +1,28 @@
-Equipe
+Team
 ======================================
 
-L'équipe se compose de 2 individus. Ils ont opéré sous l'encadrement de Mr Tawfik Masrour et Badreddine Hannaoui.
+The team consists of two individuals, working under the supervision of Mr. Tawfik Masrour.
 
-Les encadrants : 
-----------------
-    - **Encadrant 1**: Masrour Tawfik |linkedin_Masrour|
-    - **Encadrant 2**: Hannaoui Badreddine |linkedin_Badr|
+Supervisors:
+---------------------------
+Supervisor 1: Masrour Tawfik |linkedin_Masrour|
 .. |linkedin_Masrour| image:: ../Images/LinkedIn_Logo.jpeg
-    :width: 16
-    :height: 16
-    :target: https://www.linkedin.com/in/tawfik-masrour-43163b85/
+:width: 16
+:height: 16
+:target: https://www.linkedin.com/in/tawfik-masrour-43163b85/
 
-.. |linkedin_Badr| image:: ../Images/LinkedIn_Logo.jpeg
-    :width: 16
-    :height: 16
-    :target: https://www.linkedin.com/in/badreddine-hannaoui/
 
-Les membres :
---------------
+Members:
+---------------------------
+Member 1: RAHOUTI Aya |linkedin_aya|
+Member 2: ELFAIDI Ouafae |linkedin_ouafae|
 
-    - **Membre 1**: Ait Ayach Mouad |linkedin_mouad|
-    - **Membre 2**: Saidi Noureddine |linkedin_saidi|
-.. |linkedin_mouad| image:: ../Images/LinkedIn_Logo.jpeg
-    :width: 16
-    :height: 16
-    :target: https://www.linkedin.com/in/mouad-ait-ayach-274aa6206/
+.. |linkedin_aya| image:: ../Images/LinkedIn_Logo.jpeg
+:width: 16
+:height: 16
+:target: https://www.linkedin.com/in/aya-rahouti-2b3899322/
 
-.. |linkedin_saidi| image:: ../Images/LinkedIn_Logo.jpeg
-    :width: 16
-    :height: 16
-    :target: https://www.linkedin.com/in/noureddine-saidi-42ba3a247/
+.. |linkedin_ouafae| image:: ../Images/LinkedIn_Logo.jpeg
+:width: 16
+:height: 16
+:target: https://www.linkedin.com/in/ouafae-elfaidi-4b65712a7/
