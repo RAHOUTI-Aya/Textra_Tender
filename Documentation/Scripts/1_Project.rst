@@ -10,24 +10,25 @@ Key Features
 
 Textra Tender includes the following key features:
 
-  - Multi-format Document Support: Processing PDFs (both digital and scanned), HTML, and images.
+  - **Multi-format Document Support:** Processing PDFs (both digital and scanned), HTML, and images.
 
-  - OCR Integration: Using OCR techniques for accurate text extraction from scanned documents.
+  - **OCR Integration:** Using OCR techniques for accurate text extraction from scanned documents.
 
-  - AI-Powered Data Structuring: Utilizing LLMs for intelligent data organization and extraction.
+  - **AI-Powered Data Structuring:** Utilizing LLMs for intelligent data organization and extraction.
 
-  - Automated Processing Pipeline: Integrating OCR and LLMs to extract, structure, and present information in a usable format.
+  - **Automated Processing Pipeline:** Integrating OCR and LLMs to extract, structure, and present information in a usable format.
 
-  - Configurable Workflows: Allowing customization of processing parameters to suit specific business needs.
+  - **Configurable Workflows:** Allowing customization of processing parameters to suit specific business needs.
 
-  - Scalability & Performance: Optimizing for handling large volumes of documents efficiently.
+  - **Scalability & Performance:** Optimizing for handling large volumes of documents efficiently.
 
-  - Data Security & Privacy: Ensuring sensitive document processing remains secure and private.
+  - **Data Security & Privacy:** Ensuring sensitive document processing remains secure and private.
 
 Input
 ---------------------------
 
 The process starts with one or multiple documents (images or PDF files), which can be either client tenders or supplier bids.
+
 **Clarification:**
 
 - **Tenders** usually refer to formal procurement processes where companies invite suppliers to submit proposals for a project or contract.
