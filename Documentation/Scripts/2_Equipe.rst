@@ -15,13 +15,13 @@ Supervisors
 Membres
 ----------
 
-    - **Membre 1**: RAHOUTI Aya|linkedin_mouad|
-    - **Membre 2**: ELFAIDI Ouafae |linkedin_saidi|
-.. |linkedin_mouad| image:: ../Images/LinkedIn_Logo.png
+    - **Membre 1**: RAHOUTI Aya|linkedin_aya|
+    - **Membre 2**: ELFAIDI Ouafae |linkedin_ouafae|
+.. |linkedin_aya| image:: ../Images/LinkedIn_Logo.png
     :width: 40
     :height: 40
     :target: https://www.linkedin.com/in/aya-rahouti-2b3899322/
-.. |linkedin_saidi| image:: ../Images/LinkedIn_Logo.png
+.. |linkedin_ouafae| image:: ../Images/LinkedIn_Logo.png
     :width: 40
     :height: 40
     :target: https://www.linkedin.com/in/ouafae-elfaidi-4b65712a7/
