@@ -28,5 +28,4 @@ Here is a quick tutorial on how to proceed with the text extraction:
 </a>
 
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RNa_m7HNg_6SUnhLvpMKKC9ERKk2tPTU?authuser=0#scrollTo=kc03xzO2DN1e)
 
