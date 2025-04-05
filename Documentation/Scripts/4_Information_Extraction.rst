@@ -19,6 +19,7 @@ The system detects the file type and applies the appropriate method for text ext
 
 ### 2. Text Extraction
 
+Here is a quick tutorial on how to proceed with the text extraction:
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RNa_m7HNg_6SUnhLvpMKKC9ERKk2tPTU?authuser=0#scrollTo=kc03xzO2DN1e)
 
