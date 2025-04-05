@@ -15,5 +15,7 @@ Location and region of the tender
 Published date
 The dataset provides critical information for both suppliers and companies. Suppliers can search, review, and respond to these tenders through the system, while companies can manage and evaluate responses.
 
-**Data Source:**
+Data Source:
+----------------
+
 Some platforms offer open access to tenders, while others require registration or subscription for detailed information. Tenders can be accessed through web scraping or APIs, depending on the platform, but access may be restricted by platform policies. A major challenge is the inability to bulk download tenders; each must be downloaded individually due to platform limitations.
