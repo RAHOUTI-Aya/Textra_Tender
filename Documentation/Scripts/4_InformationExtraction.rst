@@ -12,20 +12,18 @@ Pipeline Workflow
 ----------------
 
 
-### 1. File Processing
+**1. File Processing**
 The system detects the file type and applies the appropriate method for text extraction:
 - **PDFs**: Processed using **PyPDF2** for text-based PDFs or **PaddleOCR** for scanned ones.
 - **Images**: Directly processed using **PaddleOCR**.
 
-### 2. Text Extraction
+**2. Text Extraction**
 
 Here is a quick tutorial on how to proceed with the text extraction:
 
-<a href="https://colab.research.google.com/drive/1RNa_m7HNg_6SUnhLvpMKKC9ERKk2tPTU?authuser=0#scrollTo=kc03xzO2DN1e" target="_blank" style="text-decoration:none;">
-    <button style="padding:10px 20px; background-color:#4285F4; color:white; border:none; border-radius:5px; cursor:pointer;">
-        Open in Google Colab
-    </button>
-</a>
+
+[**Open in Google Colab**](https://colab.research.google.com/drive/1RNa_m7HNg_6SUnhLvpMKKC9ERKk2tPTU?authuser=0#scrollTo=kc03xzO2DN1e)
+
 
 
 
