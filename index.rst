@@ -16,6 +16,7 @@ Welcome to Textra Tender's documentation!
    Documentation/Scripts/1_Introduction.rst
    Documentation/Scripts/2_Team.rst
    Documentation/Scripts/3_Data_Acquisition.rst
+   
    Documentation/Scripts/4_Information_Extraction.rst
 
 
