@@ -1,4 +1,4 @@
-Information Extraction using Mistral, PaddleOCR, and PyPDF2
+Information Extraction 
 ======
 
 In our project, we will proceed for information Extraction by using Mistral, PaddleOCR, and PyPDF2
@@ -19,13 +19,6 @@ The system detects the file type and applies the appropriate method for text ext
 
 ### 2. Text Extraction
 
-#### Using PyPDF2 for Standard PDFs
-```python
-from PyPDF2 import PdfReader
 
-def extract_text_from_pdf(pdf_path):
-    reader = PdfReader(pdf_path)
-    extracted_text = ""
-    for page in reader.pages:
-        extracted_text += page.extract_text()
-    return extracted_text
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RNa_m7HNg_6SUnhLvpMKKC9ERKk2tPTU?authuser=0#scrollTo=kc03xzO2DN1e)
+
