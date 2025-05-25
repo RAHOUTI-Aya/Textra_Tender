@@ -23,26 +23,30 @@ Some platforms offer open access to tenders, while others require registration o
 Snippets of tender documents:
 ----------------
 
-.. figure:: ../Images/tender1-1.png
-   :width: 100%
-   :align: center
-   :alt: psedo_pipeline
-   :name: psedo_pipeline
+.. list-table::
+   :widths: 50 50
+   :header-rows: 0
 
-.. figure:: ../Images/tender1-2.png
-   :width: 100%
-   :align: center
-   :alt: psedo_pipeline
-   :name: psedo_pipeline
+   * - .. figure:: ../Images/tender1-1.png
+         :width: 100%
+         :align: center
+         :alt: tender1-1
+         :name: tender1-1
 
-.. figure:: ../Images/tender2.png
-   :width: 100%
-   :align: center
-   :alt: psedo_pipeline
-   :name: psedo_pipeline
+     - .. figure:: ../Images/tender1-2.png
+         :width: 100%
+         :align: center
+         :alt: tender1-2
+         :name: tender1-2
 
-.. figure:: ../Images/tender3.png
-   :width: 100%
-   :align: center
-   :alt: psedo_pipeline
-   :name: psedo_pipeline
+   * - .. figure:: ../Images/tender2.png
+         :width: 100%
+         :align: center
+         :alt: tender2
+         :name: tender2
+
+     - .. figure:: ../Images/tender3.png
+         :width: 100%
+         :align: center
+         :alt: tender3
+         :name: tender3
