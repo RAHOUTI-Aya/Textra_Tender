@@ -15,7 +15,7 @@ Textra Tender follows a modular, automated pipeline that integrates OCR, AI-base
 .. figure:: C:\Users\PC-1\Documents\GitHub\Textra_Tender\Documentation\Images\pipeline.png
    :width: 100%
    :align: center
-   :alt: Pipeline
+   :alt: pipeline
    :name: Pipeline
 
 
@@ -30,7 +30,7 @@ To support scalability and user interaction, the Textra Tender platform is built
 .. figure:: C:\Users\PC-1\Documents\GitHub\Textra_Tender\Documentation\Images\psedo_pipeline.png
    :width: 100%
    :align: center
-   :alt: Pipeline
+   :alt: psedo_pipeline
    :name: psedo_Pipeline
 
 
