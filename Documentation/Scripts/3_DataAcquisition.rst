@@ -23,23 +23,26 @@ Some platforms offer open access to tenders, while others require registration o
 Snippets of tender documents:
 ----------------
 
-.. raw:: html
+.. figure:: ../Images/tender1-1.png
+   :width: 100%
+   :align: center
+   :alt: psedo_pipeline
+   :name: psedo_pipeline
 
-   <div style="display: flex; justify-content: space-between; gap: 10px;">
-     <div style="flex: 1;">
-       <img src="../Images/tender1-1.png" width="100%" alt="tender1-1">
-     </div>
-     <div style="flex: 1;">
-       <img src="../Images/tender1-2.png" width="100%" alt="tender1-2">
-     </div>
-   </div>
-   <br>
-   <div style="display: flex; justify-content: space-between; gap: 10px;">
-     <div style="flex: 1;">
-       <img src="../Images/tender2.png" width="100%" alt="tender2">
-     </div>
-     <div style="flex: 1;">
-       <img src="../Images/tender3.png" width="100%" alt="tender3">
-     </div>
-   </div>
+.. figure:: ../Images/tender1-2.png
+   :width: 100%
+   :align: center
+   :alt: psedo_pipeline
+   :name: psedo_pipeline
 
+.. figure:: ../Images/tender2.png
+   :width: 100%
+   :align: center
+   :alt: psedo_pipeline
+   :name: psedo_pipeline
+
+.. figure:: ../Images/tender3.png
+   :width: 100%
+   :align: center
+   :alt: psedo_pipeline
+   :name: psedo_pipeline
