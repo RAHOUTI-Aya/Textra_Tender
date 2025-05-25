@@ -12,7 +12,7 @@ Pipeline Overview
 
 Textra Tender follows a modular, automated pipeline that integrates OCR, AI-based extraction, and categorization. The complete pipeline is visualized below:
 
-![Textra Tender Pipeline](Documentation\Images\pipeline.png)
+image:: ../Images/pipeline.png
 
 This pipeline illustrates the end-to-end workflow, starting from raw document input to structured and categorized output.
 
@@ -22,7 +22,7 @@ Platform Architecture
 
 To support scalability and user interaction, the Textra Tender platform is built on a robust architecture. It outlines the major components of the user interface, backend processing, and interaction between OCR and LLM modules.
 
-![Textra Tender Platform Architecture](Documentation\Images\psedo_pipeline .png)
+(../Images/psedo_pipeline.png .png)
 
 
 
