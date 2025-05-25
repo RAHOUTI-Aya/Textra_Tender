@@ -5,6 +5,27 @@ Overview of Textra Tender
 ---------------------------
 **Textra Tender** is an evolution of the previous version **(Textra)**. In this project, we aim to develop a document processing AI tool designed to extract and structure data from various types of tender documents. By leveraging Optical Character Recognition (OCR) and Large Language Models (LLMs), Textra Tender automates the extraction of critical information, improving efficiency and accuracy in tender management by helping to facilitate the task of tender evaluation.
 
+
+
+Pipeline Overview
+---------------------------
+
+Textra Tender follows a modular, automated pipeline that integrates OCR, AI-based extraction, and categorization. The complete pipeline is visualized below:
+
+![Textra Tender Pipeline](C:\Users\PC-1\Documents\GitHub\Textra_Tender\Documentation\Images\pipeline.png)
+
+This pipeline illustrates the end-to-end workflow, starting from raw document input to structured and categorized output.
+
+
+Platform Architecture
+---------------------------
+
+To support scalability and user interaction, the Textra Tender platform is built on a robust architecture. It outlines the major components of the user interface, backend processing, and interaction between OCR and LLM modules.
+
+![Textra Tender Platform Architecture](C:\Users\PC-1\Documents\GitHub\Textra_Tender\Documentation\Images\psedo_pipeline .png)
+
+
+
 Key Features
 ---------------------------
 
