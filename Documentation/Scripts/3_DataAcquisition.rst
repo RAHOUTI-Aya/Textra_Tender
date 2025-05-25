@@ -19,3 +19,27 @@ Data Source:
 ----------------
 
 Some platforms offer open access to tenders, while others require registration or subscription for detailed information. Tenders can be accessed through web scraping or APIs, depending on the platform, but access may be restricted by platform policies. A major challenge is the inability to bulk download tenders; each must be downloaded individually due to platform limitations.
+
+Snippets of tender documents:
+----------------
+
+.. raw:: html
+
+   <div style="display: flex; justify-content: space-between; gap: 10px;">
+     <div style="flex: 1;">
+       <img src="../Images/tender1-1.png" width="100%" alt="tender1-1">
+     </div>
+     <div style="flex: 1;">
+       <img src="../Images/tender1-2.png" width="100%" alt="tender1-2">
+     </div>
+   </div>
+   <br>
+   <div style="display: flex; justify-content: space-between; gap: 10px;">
+     <div style="flex: 1;">
+       <img src="../Images/tender2.png" width="100%" alt="tender2">
+     </div>
+     <div style="flex: 1;">
+       <img src="../Images/tender3.png" width="100%" alt="tender3">
+     </div>
+   </div>
+
