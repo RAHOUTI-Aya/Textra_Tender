@@ -27,7 +27,7 @@ Platform Architecture
 
 To support scalability and user interaction, the Textra Tender platform is built on a robust architecture. It outlines the major components of the user interface, backend processing, and interaction between OCR and LLM modules.
 
-.. figure:: ../Images/psedo_pipeline .png
+.. figure:: ../Images/psedo_pipeline.png
    :width: 100%
    :align: center
    :alt: psedo_pipeline
