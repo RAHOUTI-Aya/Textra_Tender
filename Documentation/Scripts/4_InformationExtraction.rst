@@ -65,6 +65,8 @@ It supports high-speed processing (up to 2,000 pages/min), outputs structured fo
 Mistral OCR is particularly useful for extracting structured data from complex documents, such as tenders, where precise information extraction is crucial. It can handle various formats and languages, making it versatile for different business needs.
 
 Here is a demo of Mistral OCR in action, showcasing its capabilities in extracting structured data from complex documents:
+
+
 .. raw:: html
 
     <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
