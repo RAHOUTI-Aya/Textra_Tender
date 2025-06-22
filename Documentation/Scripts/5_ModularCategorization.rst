@@ -1,6 +1,5 @@
 Modular Categorization
-======================
-
+======
 The primary objective of this component of the Textra Tender Project was to automatically categorize tenders based on their field activity zones using a scalable, context-aware approach. Rather than building and maintaining static lists of categories or keywords, a Large Language Model (LLM) was leveraged to dynamically infer and assign categories based on semantic content.
 
 Methodology Overview
