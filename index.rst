@@ -19,4 +19,4 @@ Welcome to Textra Tender's documentation!
    Documentation/Scripts/4_InformationExtraction.rst
    Documentation/Scripts/5_ModularCategorization.rst
    Documentation/Scripts/6_Scoring.rst
-
+   Documentation/Scripts/7_Platform.rst
