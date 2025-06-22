@@ -1,13 +1,13 @@
 
-Modular Categorization 
-=========
+Modular Categorization
+======================
 The primary objective of this component of the Textra Tender Project was to automatically categorize tenders based on their field activity zones using a scalable, context-aware approach. Rather than building and maintaining static lists of categories or keywords, a Large Language Model (LLM) was leveraged to dynamically infer and assign categories based on semantic content.
 
 Methodology Overview
-====================
+--------------------
 
 Why an LLM-Based Approach?
---------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Traditional classification models often rely on fixed taxonomies, keyword matching, or supervised learning with structured labels. However, tenders often contain nuanced, domain-specific language that varies widely. Using an LLM allowed for:
 
 - Contextual understanding of tender descriptions
@@ -15,7 +15,7 @@ Traditional classification models often rely on fixed taxonomies, keyword matchi
 - Scalability, as new tender formats or zones emerged
 
 Workflow Breakdown
-------------------
+~~~~~~~~~~~~~~~~~~
 
 **Step 1: Data Ingestion and Cleaning**
 
@@ -45,7 +45,7 @@ This prompt was tested and refined to ensure consistency in the LLM's outputs.
 - Where confidence was low or output ambiguous, fallback prompts were issued or human review was triggered.
 
 Modular Design of the Categorization System
-===========================================
+-------------------------------------------
 
 The entire system was built in modular blocks:
 
@@ -57,7 +57,7 @@ The entire system was built in modular blocks:
 This modularity allowed easy experimentation and upgrading (e.g., switching from GPT-4 to another model or improving prompts without refactoring core logic).
 
 Example Output
-==============
+--------------
 
 For a tender like:
 
@@ -71,14 +71,14 @@ The LLM output would typically be:
 - **Rationale (optional)**: “This project involves construction and renewable energy technology for water access.”
 
 Benefits of the LLM Approach
-============================
+----------------------------
 
 - **Reduced maintenance**: No need to update keyword lists or manually label data.
 - **Flexible taxonomy**: Model could infer new or overlapping zones (e.g., “Green Infrastructure”).
 - **Higher semantic accuracy**: Better at picking up context than traditional rule-based classifiers.
 
 Challenges & Mitigations
-=========================
+-------------------------
 
 +------------------------------------------+---------------------------------------------+
 | **Challenge**                            | **Mitigation**                              |
@@ -91,3 +91,4 @@ Challenges & Mitigations
 | Cost of API usage                        | Used caching and tiered models for frequent |
 |                                          | categories                                  |
 +------------------------------------------+---------------------------------------------+
+
