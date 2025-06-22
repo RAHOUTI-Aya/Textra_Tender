@@ -18,4 +18,5 @@ Welcome to Textra Tender's documentation!
    Documentation/Scripts/3_DataAcquisition.rst
    Documentation/Scripts/4_InformationExtraction.rst
    Documentation/Scripts/5_ModularCategorization.rst
+   Documentation/Scripts/6_Scoring.rst
 
