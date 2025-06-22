@@ -85,4 +85,8 @@ This table summarizes the key PERFORMANCES of Mistral OCR with different models:
    :width: 100%
    :align: center
    :alt: mistralocr
+<<<<<<< HEAD
    :name: mistralocr
+=======
+   :name: mistralocr
+>>>>>>> e5ee34ad90fa6a1c62bb579c3702e31cb29e34d0

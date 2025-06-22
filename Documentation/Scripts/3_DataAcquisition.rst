@@ -50,3 +50,35 @@ Snippets of tender documents:
          :align: center
          :alt: tender3
          :name: tender3
+
+
+Snippets of tender documents:
+----------------
+
+.. list-table::
+   :widths: 50 50
+   :header-rows: 0
+
+   * - .. figure:: ../Images/tender1-1.png
+         :width: 100%
+         :align: center
+         :alt: tender1-1
+         :name: tender1-1
+
+     - .. figure:: ../Images/tender1-2.png
+         :width: 100%
+         :align: center
+         :alt: tender1-2
+         :name: tender1-2
+
+   * - .. figure:: ../Images/tender2.png
+         :width: 100%
+         :align: center
+         :alt: tender2
+         :name: tender2
+
+     - .. figure:: ../Images/tender3.png
+         :width: 100%
+         :align: center
+         :alt: tender3
+         :name: tender3
