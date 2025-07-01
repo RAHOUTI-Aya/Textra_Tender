@@ -5,7 +5,7 @@ The project is operated by a team of two individuals under the supervision of Mr
 
 Supervisors 
 ----------------
-    - **Supervisor **: MASROUR Tawfik |linkedin_Masrour|
+    - **Supervisor**: MASROUR Tawfik |linkedin_Masrour|
 .. |linkedin_Masrour| image:: ../Images/LinkedIn_Logo.jpeg
     :width: 16
     :height: 16
