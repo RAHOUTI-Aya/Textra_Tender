@@ -107,7 +107,6 @@ Each component was modularized:
 - **Scoring Engine**: Interacts with the LLM
 - **Response Parser**: Extracts numerical values and reasons
 - **Scoring Aggregator**: Computes final score and flags tenders
-- **Reviewer Interface**: Displays LLM output for human review (optional)
 - **Data Store**: Saves scores for analysis and dashboards
 
 5. Benefits of the LLM Approach
