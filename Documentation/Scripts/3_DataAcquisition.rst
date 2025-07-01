@@ -4,16 +4,16 @@ Data description
 ----------------
 The data used in the Textra Tenders project consists of tenders from various businesses that publish calls for bids. This data includes details such as:
 
-Tender ID
-Company/Organization name
-Tender description
-Submission deadlines
-Tender requirements
-Contact information
-Categories (e.g., construction, IT, consulting)
-Location and region of the tender
-Published date
-The dataset provides critical information for both suppliers and companies. Suppliers can search, review, and respond to these tenders through the system, while companies can manage and evaluate responses.
+- Tender ID
+- Company/Organization name
+- Tender description
+- Submission deadlines
+- Tender requirements
+- Contact information
+- Categories (e.g., construction, IT, consulting)
+- Location and region of the tender
+- Published date
+- The dataset provides critical information for both suppliers and companies. Suppliers can search, review, and respond to these tenders through the system, while companies can manage and evaluate responses.
 
 Data Source
 ----------------
