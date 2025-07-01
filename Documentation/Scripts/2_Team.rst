@@ -5,7 +5,7 @@ The project is operated by a team of two individuals under the supervision of Mr
 
 Supervisors 
 ----------------
-    - **Encadrant 1**: MASROUR Tawfik |linkedin_Masrour|
+    - **Supervisor **: MASROUR Tawfik |linkedin_Masrour|
 .. |linkedin_Masrour| image:: ../Images/LinkedIn_Logo.jpeg
     :width: 16
     :height: 16
@@ -15,8 +15,8 @@ Supervisors
 Membres
 ----------
 
-    - **Membre 1**: RAHOUTI Aya |linkedin_aya|
-    - **Membre 2**: ELFAIDI Ouafae |linkedin_ouafae|
+    - **Member 1**: RAHOUTI Aya |linkedin_aya|
+    - **Member 2**: ELFAIDI Ouafae |linkedin_ouafae|
 .. |linkedin_aya| image:: ../Images/LinkedIn_Logo.jpeg
     :width: 16
     :height: 16

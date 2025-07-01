@@ -96,30 +96,27 @@ To support supplier success:
 6. Summary of Key Features
 ---------------------------
 
-+--------------------------+---------------------------------------------------+
-| **Feature**              | **Description**                                   |
-+==========================+===================================================+
-| Login/Register           | Required to access personalized features          |
-+--------------------------+---------------------------------------------------+
-| Tender Request Form      | User inputs preferred tender characteristics      |
-+--------------------------+---------------------------------------------------+
-| AI Recommendations       | System shows top 5 matching tenders with scores   |
-|                          | and justifications                                |
-+--------------------------+---------------------------------------------------+
-| Tender Document Preview  | Users can scroll through the tender PDF before    |
-|                          | deciding                                         |
-+--------------------------+---------------------------------------------------+
-| User Feedback & Rescoring| Users give feedback, and the system adjusts       |
-|                          | tender relevance                                 |
-+--------------------------+---------------------------------------------------+
-| Candidature Submission   | Generates personalized submission documents       |
-|                          | based on company info                            |
-+--------------------------+---------------------------------------------------+
-| Dashboard                | Displays market insights and user statistics      |
-+--------------------------+---------------------------------------------------+
-| Microlearning + Chatbot  | Learning center and conversational assistant for  |
-|                          | guidance                                         |
-+--------------------------+---------------------------------------------------+
+.. list-table::
+    :header-rows: 1
+
+    * - Feature 
+      - Description
+    * - Login/Register 
+      - Required to access personalized features
+    * - Tender Request Form
+      - User inputs preferred tender characteristics
+    * - AI Recommendations
+      - System shows top 5 matching tenders with scores and justifications
+    * - Tender Document Preview
+      - Users can scroll through the tender PDF before deciding
+    * - User Feedback & Rescoring
+      - Users give feedback, and the system adjusts tender relevance
+    * - Candidature Submission
+      - Generates personalized submission documents based on company info
+    * - Dashboard
+      - Displays market insights and user statistics
+    * - Microlearning + Chatbot
+      - Learning center and conversational assistant for guidance
 
 7. Target Users
 ----------------
