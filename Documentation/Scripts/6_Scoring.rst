@@ -10,7 +10,6 @@ The tender scoring module was designed to evaluate and prioritize tenders based 
 -------------------------------------
 
 Scoring tenders requires analyzing unstructured, variable-length descriptions, often involving complex jargon and implicit signals. Traditional rule-based or weighted systems often:
-
 - Struggle with context,
 - Fail to adapt to different domains,
 - Require heavy manual tuning.
