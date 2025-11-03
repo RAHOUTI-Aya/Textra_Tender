@@ -126,3 +126,13 @@ To support supplier success:
 - Large suppliers seeking filtered tender opportunities
 - New market entrants unfamiliar with formal tender procedures
 
+
+7. Platform Demo
+----------------
+Vous pouvez visionner une démonstration de la plateforme Textra Tender pour découvrir son interface, ses fonctionnalités principales et le flux complet de gestion des appels d’offres. La vidéo illustre notamment : la navigation entre les espaces client et fournisseur, la soumission et le suivi des offres, ainsi que les fonctionnalités de recherche et filtrage des appels d’offres.
+
+.. raw:: html
+
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
+        <iframe src="https://youtu.be/GfbFk2uvetw?si=akJFdLqmj2W_cNvJ" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+    </div>
